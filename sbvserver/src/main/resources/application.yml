@@ -1,10 +1,5 @@
-## yml file doesn't support tab, use space instead
 server:
   port: 9090
-
-spring:
-  profiles:
-    active: sit
 
 logging:
   level:
